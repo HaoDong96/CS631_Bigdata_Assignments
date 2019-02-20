@@ -7,26 +7,26 @@ WATIAM:h45dong
 github:HaoDong96
 
 **Question 1**
-mark: 1/1
+mark: 4/4
 
 **Question 2**
-mark: 1.0/1
+mark: 4.0/4
 
 **Question 3**
-mark: 1.0/1
+mark: 4.0/4
 
 **Question 4**
-mark: 3.0/3
+mark: 6.0/6
 
 **Question 5**
-mark: 2.5/3
+mark: 5.0/6
 
 **Question 6**
-mark: 0.0/3
+mark: 0.0/6
 
 **feedback :** 
 
 **Final grade**
-mark: 8.5/12.0
+mark: 23.0/30.0
 
-summary: 20757585,h45dong,HaoDong96,8.5/12.0
+summary: 20757585,h45dong,HaoDong96,23.0/30.0
