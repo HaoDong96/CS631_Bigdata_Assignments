@@ -19,14 +19,14 @@ mark: 4.0/4
 mark: 6.0/6
 
 **Question 5**
-mark: 5.0/6
+mark: 6.0/6
 
 **Question 6**
-mark: 0.0/6
+mark: 6.0/6
 
 **feedback :** 
 
 **Final grade**
-mark: 23.0/30.0
+mark: 30.0/30.0
 
-summary: 20757585,h45dong,HaoDong96,23.0/30.0
+summary: 20757585,h45dong,HaoDong96,30.0/30.0
