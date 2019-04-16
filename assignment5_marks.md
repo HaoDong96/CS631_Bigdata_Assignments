@@ -25,17 +25,17 @@ mark: 1.5/1.5
 mark: 2.0/2.0
 
 **Question 7**
-mark: 0/1.5
+mark: 1.5/1.5
 
 **Question 8**
 mark: 1.5/1.5
 
 **Question 9**
-mark: 0/2.0
+mark: 2.0/2.0
 
 **feedback :** 
 
 **Final grade**
-mark: 16.5/20.0
+mark: 20.0/20.0
 
-summary: 20757585,h45dong,HaoDong96,16.5/20.0
+summary: 20757585,h45dong,HaoDong96,20.0/20.0
